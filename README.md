@@ -1,9 +1,9 @@
 Software Requirements
 =====================
-gputils
-piklab
+ - gputils
+ - piklab
 
 Hardware Requirements
 =====================
-PIC12F508
-Some LEDs
+ - PIC12F508
+ - Some LEDs
