@@ -139,10 +139,6 @@ cycle_leds_loop
 	goto	cycle_leds
 
 	clrf	GPIO
-	call	Delay_50ms
-	call	Delay_50ms
-	call	Delay_50ms
-	call	Delay_50ms
 	goto	fade_leds_init
 
 
