@@ -1,0 +1,12 @@
+<!DOCTYPE piklab>
+<piklab>
+  <general>
+    <device>12F508</device>
+    <tool>gputils</tool>
+    <programmer>pickit2</programmer>
+    <files>
+      <item>ironman_reactor.asm</item>
+    </files>
+  </general>
+  <editors/>
+</piklab>
